@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "セントレイ",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-25T19:18:15.278323Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "セントレイ",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_セントレイ_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "セントレイ - シンシロ ver.",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/02_セントレイ_-_シンシロ_ver._sakanaction.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "セントレイ - シンシロ ver.",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/03_セントレイ_-_シンシロ_ver._サカナクション.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "セントレイ",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/04_セントレイ_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sen to Rei [セントレイ]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/05_Sen_to_Rei_[セントレイ]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サカナクション / セントレイ",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/06_サカナクション___セントレイ_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "セントレイ",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_セントレイ_サカナクション.txt"
+    }
+  ]
+}
